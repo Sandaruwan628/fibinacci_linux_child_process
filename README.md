@@ -14,4 +14,4 @@ Note: GCC must be installed
 
 To run the compiled executable file run the following command.
 
-./fib (non-negative-integer)
+./fib <<non-negative-integer>>
